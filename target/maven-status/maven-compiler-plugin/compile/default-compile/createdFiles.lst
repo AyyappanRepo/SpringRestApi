@@ -1,0 +1,5 @@
+com\bharath\springweb\controllers\ProductRestController.class
+com\bharath\springweb\repos\ProductRepository.class
+com\bharath\springweb\healthchecks\CustomHealthIndicator.class
+com\bharath\springweb\entities\Product.class
+com\bharath\springweb\ProductrestapiApplication.class
