@@ -1,4 +1,4 @@
-package com.bharath.springweb;
+package com.ayyappan.springweb;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
